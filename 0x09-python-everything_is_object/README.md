@@ -76,11 +76,11 @@ Files | Description
 
 ## Task 35
 ```
-a = "HBTN"
-b = "HBTN"
+a = "SCHL"
+b = "SCHL"
 del a
 del b
-c = "HBTN"
+c = "SCHL"
 ```
 
 Files | Description
